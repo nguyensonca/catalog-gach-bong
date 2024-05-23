@@ -27,7 +27,7 @@
 
 'use strict';
 
-var DEFAULT_URL =  "compressed.tracemonkey-pldi-09.pdf";
+var DEFAULT_URL =  "https://cdnc.heyzine.com/files/uploaded/v2/4038c3a4d16e073a4daf4f132eaa1ae1590029bc.pdf";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
