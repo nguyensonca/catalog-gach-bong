@@ -27,7 +27,7 @@
 
 'use strict';
 
-var DEFAULT_URL =  "catalog-cement-tile-gach-bong.pdf";
+var DEFAULT_URL =  "VIETNAM CEMENT TILE CORP (1)-compressed.pdf";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
