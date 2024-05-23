@@ -27,7 +27,7 @@
 
 'use strict';
 
-var DEFAULT_URL =  "https://view.publitas.com/14131/981039/pdfs/3fe53bd4-d959-4d93-99f2-fe164171e868.pdf";
+var DEFAULT_URL =  "catalog-cement-tile-gach-bong.pdf";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
